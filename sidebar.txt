@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[urz:home|Door43 (urz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-urz|d43-urz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-urz/archive/master.zip|d43-urz.zip]]
+
+**Recent Changes**
+{{changes>ns = urz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/urz|Ethnologue data]]
+
